@@ -9,7 +9,7 @@ API testing tool recommended, as postsman, insomnia etc.
 -[Instalation](#instalation)
 
 ## Instalation
-1. Clone repository using git clone https://github.com/grajoda/node-api-mongodb.
+1. Clone repository using ```shell git clone https://github.com/grajoda/node-api-mongodb.
 2. Execute command 'npm install'.
 3. Configure the variables in '.env' file.
 
